@@ -8,4 +8,3 @@ closeBtn.addEventListener('click', () => sideBar.classList.remove('openNav'));
 
 
 
-
